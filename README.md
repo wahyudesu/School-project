@@ -2,3 +2,4 @@
 
 -Statistic
 -Linear Algebra
+-Machine learning
